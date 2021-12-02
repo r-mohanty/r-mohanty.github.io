@@ -1,16 +1,16 @@
-# Personal Portfolio ⚡️ 
-> A aesthetic and responsive portfolio!
+# Personal Portfolio 
+> An aesthetic and responsive portfolio!
 
 > https://r-mohanty.github.io
 
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Easy to modify
+## Features
+ Fully Responsive\
+ Valid HTML5 & CSS3\
+ Easy to modify
 
 
-## Sections 📚
+## Sections
 ✔️ About me\
 ✔️ Achievements\
 ✔️ Experience\
@@ -21,11 +21,11 @@
 
 To view a live example, **[click here](https://r-mohanty.github.io/)**
 
-## Tools Used 🛠️
+## Tools Used
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
 * [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
 
-## Contributing 💡
+## Contributing
 #### Step 1
 
 - **Option 1**
@@ -37,11 +37,11 @@ To view a live example, **[click here](https://r-mohanty.github.io/)**
 
 #### Step 2
 
-- **Build your code** 🔨🔨🔨
+- **Build your code**
 
 #### Step 3
 
 - 🔃 Create a new pull request.
 
-## License 📄
+## License
 This project is licensed under the [MIT License](./LICENSE).
