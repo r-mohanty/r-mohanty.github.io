@@ -17,7 +17,7 @@
 ✔️ Projects \
 ✔️ Skills \
 ✔️ Education\
-✔️ Contact Info\
+✔️ Contact Info
 
 To view a live example, **[click here](https://r-mohanty.github.io/)**
 
